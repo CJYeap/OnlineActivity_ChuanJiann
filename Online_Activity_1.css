@@ -1,0 +1,95 @@
+h1{
+	color:black;
+	font-family:Verdana;
+	text-align:center;
+}
+#yankees img{
+	display:block;
+	float:left;
+	padding:5px 20px 0 20px;
+	margin:20px;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition:all 0.3s;
+}
+#yankees:hover img{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform:scale(1.1);
+}
+#yankeesID{
+	color:white;
+	width:480px;
+	height:20px;
+	padding:50px 0 160px 20px ;
+	text-align:left;
+	float:left;
+}
+#yankeesID p{
+	font-family:Verdana;
+	font-size:48px;
+}
+#dodgers img{
+	display:block;
+	float:left;
+	padding:5px 20px 0 20px;
+	margin:20px;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition:all 0.3s;
+}
+#dodgers:hover img{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform:scale(1.1);
+}
+#dodgersID{
+	color:white;
+	width:500px;
+	height:90px;
+	padding:50px 0 160px 20px ;
+	text-align:left;
+	float:left;
+}
+#dodgersID p{
+	font-family:Verdana;
+	font-size:48px;
+}
+#cubs img{
+	display:block;
+	float:left;
+	padding:5px 20px 0 20px;
+	margin:20px;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition:all 0.3s;
+}
+#cubs:hover img{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform:scale(1.1);
+}
+#cubsID{
+	color:white;
+	width:500px;
+	height:90px;
+	padding:50px 0 160px 20px ;
+	text-align:left;
+	float:left;
+}
+#cubsID p{
+	font-family:Verdana;
+	font-size:48px;
+}
+#background{
+	background-color:#001d4c;
+	height:80px;
+	margin:0 auto 10px;
+    padding:30px 50px;
+	
+}
+img{
+	border:1px solid #00ffffff;
+	padding:5px;
+	border:30px;
+}
